@@ -38071,7 +38071,30 @@
       "extensions": {
         "twitter": "https://twitter.com/HowdyDao"
       }
-    }
+    },
+	{
+      "chainId": 101,
+      "address": "J8iu9djzKxxSY1s5inb7KDrka32iR3rF6rCDHGjafANf",
+      "symbol": "OKAY",
+      "name": "OKAY Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/thepbac/okaytoken/main/okay.png",
+      "tags": [
+		"eCommerce",
+        "NFT",
+        "community",
+		"utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/okayhouse_app",
+        "twitter": "https://twitter.com/okayhouse_app",
+        "website": "http://okayhouse.app"
+      }
+    },
   ],
   "version": {
     "major": 0,
